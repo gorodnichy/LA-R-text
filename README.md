@@ -2,13 +2,14 @@
 
 ## *Learn and Apply Text Analysis in R, Efficiently*
 
-Collection of R libraries and resources for text analysis (mining) and vizualization.  
-With emphasis on processing multilingual texts (in UTF-8,  specifically Russian, Ukrainian,English and French)  
-
-Easy to run codes provided.  
-Codes for getting texts from web and spitting them by sections (for easier section-by-section) analysis provided.
-
 (Currently, mainly for myself, so not yet well organized or documented)  
+
+Collection of R libraries and resources for text analysis (mining) and vizualization.  
+With emphasis on processing multilingual texts (in UTF-8,  specifically Russian and French)  
+
+Easy to run codes provided, including for getting texts from web and spitting them by sections for easier section-by-section analysis provided.
+
+
 
 Includes: 
 - various sentiment/emotion analysis techniques.
@@ -23,7 +24,11 @@ Based on:
 - https://cran.r-project.org/web/packages/spacyr/README.html
 
 - https://www.tidytextmining.com/
-- https://www.datacamp.com/community/tutorials/sentiment-analysis-R
+    - https://www.datacamp.com/community/tutorials/sentiment-analysis-R
+    
+https://www.researchgate.net/publication/289557186_Language_Variation_Suite_A_theoretical_and_methodological_contribution_for_linguistic_data_analysis
+    - https://languagevariationsuite.shinyapps.io/Pages/
+    - https://languagevariationsuite.shinyapps.io/TextMining/
 
 See also https://github.com/gorodnichy/LA-R-Keras for using Neural Network (Tensorflow) based techniques for text clasification.
 
