@@ -26,9 +26,6 @@ Based on:
 - https://www.tidytextmining.com/
     - https://www.datacamp.com/community/tutorials/sentiment-analysis-R
     
-https://www.researchgate.net/publication/289557186_Language_Variation_Suite_A_theoretical_and_methodological_contribution_for_linguistic_data_analysis
-    - https://languagevariationsuite.shinyapps.io/Pages/
-    - https://languagevariationsuite.shinyapps.io/TextMining/
 
 See also https://github.com/gorodnichy/LA-R-Keras for using Neural Network (Tensorflow) based techniques for text clasification.
 
