@@ -4,12 +4,26 @@
 
 (Currently, mainly for myself, so not yet well organized or documented)  
 
-Collection of R libraries and resources for text analysis (mining) and vizualization.  
-With emphasis on processing multilingual texts (in UTF-8,  specifically Russian and French)  
+Collection of R libraries and resources for text analysis (mining) and vizualization,  
+including processing of multilingual texts (in UTF-8,  specifically Russian and French)  
 
 Easy to run codes provided, including for getting texts from web and spitting them by sections for easier section-by-section analysis provided.
 
+Books: 
+-  https://www.tidytextmining.com
 
+Text mining packages (used in tidytext book)
+- tm
+- quanteda 
+- lexicon?
+- qdap
+- syuzhet
+- https://github.com/trinker/sentimentr ** <-- Vinette!
+it Compares sentimentr, syuzhet, meanr, and Stanford
+
+https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words
+https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr
+https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way - by Julia Silge - Ch1 DONE
 
 Includes: 
 - various sentiment/emotion analysis techniques.
@@ -30,7 +44,10 @@ Based on:
 See also https://github.com/gorodnichy/LA-R-Keras for using Neural Network (Tensorflow) based techniques for text clasification.
 
 
+Plagiarism detection:
+- https://cran.r-project.org/web/packages/RNewsflow/vignettes/RNewsflow.html
 
+-  https://cran.r-project.org/web/packages/corpustools/vignettes/corpustools.html
 
 
 Data-sets:
@@ -50,7 +67,7 @@ You may also find these resources useful:
 - https://cran.r-project.org/web/views/WebTechnologies.html
 - https://github.com/ropensci/opendata
 
-Social media
+Processing Texts from Social media
 
 - Facebook: Rfacebook provides an interface to the Facebook API. (K)
 - Google+: plusser has been designed to to facilitate the retrieval of Google+ profiles, pages and posts. It also provides search facilities. Currently a Google+ API key is required for accessing Google+ data. tuber provides bindings for YouTube API. Only on Github for now. (K)
