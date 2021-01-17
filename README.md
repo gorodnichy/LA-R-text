@@ -55,16 +55,19 @@ Data-sets:
 - https://cran.r-project.org/web/packages/gutenbergr/vignettes/intro.html - Wrapper for  http://www.gutenberg.org/
 - https://cran.rstudio.com/web/packages/rplos/index.html
 
-
+***
 You may also find these resources useful:
 
-- The Natural Language Processing CRAN View (https://cran.r-project.org/web/views/NaturalLanguageProcessing.html) suggests many R packages related to text mining, especially around the tm package.
+- *CRAN The Natural Language Processing* View (https://cran.r-project.org/web/views/NaturalLanguageProcessing.html) suggests many R packages related to text mining, especially around the tm package.
 
 - You could match the wikipedia column in gutenberg_author to Wikipedia content with the WikipediR package - https://cran.r-project.org/web/packages/WikipediR/index.html or to pageview statistics with the wikipediatrend package - https://cran.r-project.org/web/packages/wikipediatrend/index.html
 - If you’re considering an analysis based on author name, you may find the humaniformat (for extraction of first names) and gender (prediction of gender from first names) packages useful. (Note that humaniformat has a format_reverse function for reversing “Last, First” names).
 
 
+*** 
+
 - https://cran.r-project.org/web/views/WebTechnologies.html
+
 - https://github.com/ropensci/opendata
 
 Processing Texts from Social media
@@ -77,3 +80,14 @@ Processing Texts from Social media
 - Twitter: RTwitterAPI (not on CRAN) and twitteR provide an interface to the Twitter web API. streamR: This package provides a series of functions that allow R users to access Twitter's filter, sample, and user streams, and to parse the output into data frames. OAuth authentication is supported. (K) Additionally, RKlout is an interface to Klout API v2. It fetches Klout Score for a Twitter Username/handle in real time. Klout is a silly ranking of Twitter influence.
 - SocialMediaLab provides a convenient wrapper around many other social media clients and enables the construction of network structures from those data.
 - SocialMediaMineR is an analytic tool that returns information about the popularity of a URL on social media sites.
+
+
+
+https://cran.r-project.org/web/views/:
+
+- https://cran.r-project.org/web/views/WebTechnologies.html
+- https://cran.r-project.org/web/views/NaturalLanguageProcessing.html
+
+
+
+
