@@ -11,6 +11,12 @@ details <- content(frozen, "parse")
 
 details$Year
 
+# > details
+# $Response
+# [1] "False"
+# 
+# $Error
+# [1] "No API key provided."
 
 # https://github.com/rstudio/webinars/blob/master/32-Web-Scraping/frozen.R ----
 
@@ -44,7 +50,11 @@ html_text(cast3)
 
 # https://github.com/rstudio/webinars/blob/master/32-Web-Scraping/best-places.R ----
 
+library(rvest)
 orlando <- read_html("http://www.bestplaces.net/climate/city/florida/orlando") 
+# Error in open.connection(x, "rb") : 
+#   SSL certificate problem: unable to get local issuer certificate
+# > 
 
 tables <- html_nodes(orlando, css = "table") 
 

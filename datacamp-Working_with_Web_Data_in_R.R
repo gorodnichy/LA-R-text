@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-
 # https://rstudio.com/resources/webinars/data-science-case-study-an-analysis-in-r-using-a-variety-of-packages-for-web-scraping-and-processing-non-tidy-data-into-tidy-data-frames/
 # https://rstudio.com/resources/webinars/the-basics-and-some-of-the-pitfalls-of-calling-web-apis-from-within-r/
 # https://rstudio.com/resources/webinars/part-1-easy-ways-to-collect-different-types-of-data-from-the-web-with-r/
 # https://rstudio.com/resources/webinars/part-2-easy-ways-to-collect-different-types-of-data-from-the-web-with-r/
 
+# https://github.com/ropensci-training/user2016-tutorial
 
 # https://github.com/Georgits/datacamp/blob/master/01_R/Working_with_Web_Data_in_R/Working_with_Web_Data_in_R.R
 #  More from # https://github.com/Georgits/datacamp/
-=======
-# https://github.com/Georgits/datacamp/blob/master/01_R/Working_with_Web_Data_in_R/Working_with_Web_Data_in_R.R
-# # https://github.com/Georgits/datacamp/
->>>>>>> c40e6516572dd00bc21297d089a042d7ec83bbd4
+
 
 # See also https://rpubs.com/Sergio_Garcia/working_with_web_data_in_r
 # https://rpubs.com/Sergio_Garcia

@@ -1,3 +1,5 @@
+# See also https://zapier.com/learn/apis/chapter-1-introduction-to-apis/
+
 library(httr)
 library(jsonlite)
 library(magrittr)
