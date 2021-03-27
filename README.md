@@ -70,7 +70,7 @@ You may also find these resources useful:
 
 - https://github.com/ropensci/opendata
 
-Processing Texts from Social media
+### Processing Texts from Social media
 
 - Facebook: Rfacebook provides an interface to the Facebook API. (K)
 - Google+: plusser has been designed to to facilitate the retrieval of Google+ profiles, pages and posts. It also provides search facilities. Currently a Google+ API key is required for accessing Google+ data. tuber provides bindings for YouTube API. Only on Github for now. (K)
@@ -89,5 +89,26 @@ https://cran.r-project.org/web/views/:
 - https://cran.r-project.org/web/views/NaturalLanguageProcessing.html
 
 
+## Topic modeling
 
-
+- [Hands-on: a five day text mining course for humanists and social scientistsin R](http://ceur-ws.org/Vol-1918/wiedemann.pdf)
+- [Reading Tea Leaves: How Humans Interpret Topic Models](https://proceedings.neurips.cc/paper/2009/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf)
+- 
+- Excellent one: https://tm4ss.github.io/docs/Tutorial_1_Web_scraping.html - https://github.com/tm4ss / https://github.com/tm4ss/tm4ss.github.io
+  - Tutorial 1: Web crawling and scraping
+  - Tutorial 2: Processing of textual data
+  - Tutorial 3: Frequency analysis
+  - Tutorial 4: Key term extraction
+  - Tutorial 5: Co-occurrence analysis
+  - Tutorial 6: Topic Models
+  - Tutorial 7: Classification
+  - Tutorial 8: Part-of-Speech tagging / Named Entity Recognition
+  
+- Another one: https://slcladal.github.io/topicmodels.html#ref-silge2017text - https://github.com/SLCLADAL / https://github.com/SLCLADAL/SLCLADAL.github.io
+Text Analysis and Distant Reading -
+Concordancing (keywords-in-context) -
+Network Analysis -
+Co-occurrence and Collocation Analysis -
+Topic Modeling -
+Sentiment Analysis -
+Tagging and Parsing 
